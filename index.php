@@ -1,9 +1,8 @@
 <?php
-Operatir Aritmatika
-$x = 10 ;
-$y = 20;
-echo $x + $y ;
-echo # tulis operator pengurangan
-echo # tulis operator perkalian
-echo # tulis pembagi
-echo # tulis operator modulus
+
+$nama_depan = "ZAINUL";
+$nama_belakang = "ROSIKIN";
+
+echo $nama_depan . "" . $nama_belakang;
+
+?>
