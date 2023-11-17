@@ -1,12 +1,13 @@
 <html>
     <head>
-        <title>
-            Belajar PHP
-</title>
+        <titlle>
+            Belajar php 
+ </title>
 </head>
 <body>
-    <h1>
-        Selamat Datang <?php echo "ZAINUL ROSIKIN";?>
-</h1>
+
+<?php
+echo "<h1>Selamat Dayang, Zainul Rosikin</h1>";
+?>
 </body>
 </html>
