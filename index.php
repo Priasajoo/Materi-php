@@ -1,7 +1,9 @@
-<?<php>
-$nama = "zainul"
-
-echo "Hallo, Selamat datang $nama </br>"; #petik dua
-echo 'Hallo, Selamat Datang $nama'; #pettik satu
-
-?>
+<?php
+Operatir Aritmatika
+$x = 10 ;
+$y = 20;
+echo $x + $y ;
+echo # tulis operator pengurangan
+echo # tulis operator perkalian
+echo # tulis pembagi
+echo # tulis operator modulus
